@@ -1,0 +1,61 @@
+{
+    "asset": {
+        "id": "edf654c972eb992c7089ec3cf161c2a2",
+        "format": "8",
+        "state": 2,
+        "type": 3,
+        "name": "IMG_0969%20(1).MOV#t=9.8",
+        "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=9.8",
+        "size": {
+            "width": 720,
+            "height": 1280
+        },
+        "parent": {
+            "format": "MOV",
+            "id": "b56336f08f4d164b42eafdbcdb368936",
+            "name": "IMG_0969%20(1).MOV",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 9.8
+    },
+    "regions": [
+        {
+            "id": "cprSaBtI2",
+            "type": "RECTANGLE",
+            "tags": [
+                "Human_Being"
+            ],
+            "boundingBox": {
+                "height": 796.2746326958955,
+                "width": 311.6816043600796,
+                "left": 274.1300434142904,
+                "top": 304.14327775186564
+            },
+            "points": [
+                {
+                    "x": 274.1300434142904,
+                    "y": 304.14327775186564
+                },
+                {
+                    "x": 585.81164777437,
+                    "y": 304.14327775186564
+                },
+                {
+                    "x": 585.81164777437,
+                    "y": 1100.4179104477612
+                },
+                {
+                    "x": 274.1300434142904,
+                    "y": 1100.4179104477612
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

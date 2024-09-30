@@ -1,0 +1,8 @@
+prefix=/home/pi/TuanTrinhRes/devel
+
+Name: MotionDetact
+Description: Description of MotionDetact
+Version: 0.0.0
+Cflags: -I/home/pi/TuanTrinhRes/devel/include -I/home/pi/TuanTrinhRes/src/MotionDetact/include
+Libs: -L${prefix}/lib -lMotionDetact
+Requires: roscpp rospy std_msgs

@@ -1,0 +1,634 @@
+{
+    "name": "Test_File",
+    "securityToken": "Test_File Token",
+    "sourceConnection": {
+        "name": "First_Annotation",
+        "description": "This is the first annotation",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDA1YzE3OTg3ZjJiMTk1YjYxZTQ3NmZmMjU1ZmU4Y2UzZDQ5ZTk1ZmE0YzA4MjdkZjgwZjE1OTA3ZDUxZjcxZGJiNTUyMzk4NmIzZmIyNGEwODllMTM3MjZjOTQ3YjViZDA4ODZlYmQ1OTljZGIxOGVkOWJkNTI4OTgzM2IwYmEiLCJpdiI6ImQ1MjM5ZmM2MmIzZTJhODNjZTNlNTIxODVhN2YyYTczMzViN2FhNzkzYjY1MDc0MyJ9"
+        },
+        "id": "sg_kYKEhv"
+    },
+    "targetConnection": {
+        "name": "First_Annotation",
+        "description": "This is the first annotation",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMmRlMTJlY2QzNTg5ZjExMzkwZWRkYjMzNmJhY2ZjMGUwNDZlZDNmNTk1ZjNkMTEwM2IxZGMwMWEyNjdmZTg4NWE2YWI3Nzk2MjYyYWFjZGMxMGJiZDhmYzIxODdiYmZmZTU3NDk2MGFlOTc4ZjZhYjgxNjkwZjQ3M2ViMTVmNzYiLCJpdiI6ImQyNDM4NDc1NjIxODAwOThiYTY1YjEzMjZmMzUzN2RjY2Q3OTM4NWQzYzMyYzgxZCJ9"
+        },
+        "id": "sg_kYKEhv"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Human_Being",
+            "color": "#00FFFF"
+        }
+    ],
+    "id": "zYnxnQA2o",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTI2MzZjMTBiOGFlODAzMmYzYmJiMzJjY2I0ZjE5MTgyOWM3ZDMwZjdmNDU2MWQ4ODI0NmE2ZDI2Yzg4Y2EwMGYzYjczNmZiY2ZkYzdhOTc3ODZjOTZjZDgzM2EyZDYwIiwiaXYiOiIzYzdkNWY3ZjJlYjlhYTJkNWQ5NzI1MTg5NTYwM2QxNDM5YmVlNWU1NTYzOWVjMGYifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "b56336f08f4d164b42eafdbcdb368936",
+    "assets": {
+        "b56336f08f4d164b42eafdbcdb368936": {
+            "format": "MOV",
+            "id": "b56336f08f4d164b42eafdbcdb368936",
+            "name": "IMG_0969%20(1).MOV",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 2
+        },
+        "34d9d9a17df8a054130f51131f724059": {
+            "id": "34d9d9a17df8a054130f51131f724059",
+            "format": "133333",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=2.133333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=2.133333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 2.133333
+        },
+        "75199d8925907209e3107aa29b6d85f2": {
+            "id": "75199d8925907209e3107aa29b6d85f2",
+            "format": "MOV",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=2",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=2",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 2
+        },
+        "8a65f75c223b2702a4554fe6994642fb": {
+            "id": "8a65f75c223b2702a4554fe6994642fb",
+            "format": "933333",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=1.933333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=1.933333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 1.933333
+        },
+        "a12eec7c4145ff456338821f47550d3e": {
+            "id": "a12eec7c4145ff456338821f47550d3e",
+            "format": "866667",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=1.866667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=1.866667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 1.866667
+        },
+        "5f89419d9b3bf25fd1af035b7af3556e": {
+            "id": "5f89419d9b3bf25fd1af035b7af3556e",
+            "format": "2",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=0.2",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=0.2",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 0.2
+        },
+        "875a27780ea13d594b524f34830cf27d": {
+            "id": "875a27780ea13d594b524f34830cf27d",
+            "format": "MOV",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=0",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=0",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 0
+        },
+        "664d0c125702bc9b9804abcb9a9f82d2": {
+            "id": "664d0c125702bc9b9804abcb9a9f82d2",
+            "format": "933333",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=0.933333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=0.933333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 0.933333
+        },
+        "30c7abc8a9b7648e6960eccf96a15729": {
+            "id": "30c7abc8a9b7648e6960eccf96a15729",
+            "format": "6",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=3.6",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=3.6",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 3.6
+        },
+        "a1e58d29b3d8850aac39de6c912068df": {
+            "id": "a1e58d29b3d8850aac39de6c912068df",
+            "format": "6",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=4.6",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=4.6",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 4.6
+        },
+        "300ee65b89cabb4396589deff392e5be": {
+            "id": "300ee65b89cabb4396589deff392e5be",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=5.533333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=5.533333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 5.533333
+        },
+        "0ac114cdda20b144530c0b1f62cf9070": {
+            "id": "0ac114cdda20b144530c0b1f62cf9070",
+            "format": "466667",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=6.466667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=6.466667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 6.466667
+        },
+        "85eaaf1cd68bfbe9e95e8350e0e84644": {
+            "id": "85eaaf1cd68bfbe9e95e8350e0e84644",
+            "format": "6",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=7.6",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=7.6",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 7.6
+        },
+        "85b40536851fde31131be3c89c1d3d7a": {
+            "id": "85b40536851fde31131be3c89c1d3d7a",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=8.533333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=8.533333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 8.533333
+        },
+        "edf654c972eb992c7089ec3cf161c2a2": {
+            "id": "edf654c972eb992c7089ec3cf161c2a2",
+            "format": "8",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=9.8",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=9.8",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 9.8
+        },
+        "3a0fa9423e37ef626fa21adef05bc78d": {
+            "id": "3a0fa9423e37ef626fa21adef05bc78d",
+            "format": "666667",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=10.666667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=10.666667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 10.666667
+        },
+        "fd753898c14547179dc903e0d1e0f5af": {
+            "id": "fd753898c14547179dc903e0d1e0f5af",
+            "format": "266667",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=13.266667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=13.266667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 13.266667
+        },
+        "1270239cc2753b3c713e312024e0cd5f": {
+            "id": "1270239cc2753b3c713e312024e0cd5f",
+            "format": "466667",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=14.466667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=14.466667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 14.466667
+        },
+        "5a9efdbd6c40e83681fb44dbfdbd1727": {
+            "id": "5a9efdbd6c40e83681fb44dbfdbd1727",
+            "format": "466667",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=15.466667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=15.466667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 15.466667
+        },
+        "4e39ca9b8be03af1469907cebfbbbad9": {
+            "id": "4e39ca9b8be03af1469907cebfbbbad9",
+            "format": "6",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=16.6",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=16.6",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 16.6
+        },
+        "bc6881ded5585b82e3bfea7f4f37f566": {
+            "id": "bc6881ded5585b82e3bfea7f4f37f566",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=17.533333",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=17.533333",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 17.533333
+        },
+        "db0399a46e2d11c016158220515830e1": {
+            "id": "db0399a46e2d11c016158220515830e1",
+            "format": "666667",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=18.666667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=18.666667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 18.666667
+        },
+        "0a55b5123781e79ad09de15be239a78b": {
+            "id": "0a55b5123781e79ad09de15be239a78b",
+            "format": "6",
+            "state": 2,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=19.6",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=19.6",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 19.6
+        },
+        "4f80e94612d4d1c505ac04c40f098222": {
+            "id": "4f80e94612d4d1c505ac04c40f098222",
+            "format": "066667",
+            "state": 1,
+            "type": 3,
+            "name": "IMG_0969%20(1).MOV#t=9.066667",
+            "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV#t=9.066667",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "parent": {
+                "format": "MOV",
+                "id": "b56336f08f4d164b42eafdbcdb368936",
+                "name": "IMG_0969%20(1).MOV",
+                "path": "file:C:/Users/barwa/Desktop/ResearchTest/IMG_0969%20(1).MOV",
+                "size": {
+                    "width": 720,
+                    "height": 1280
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 9.066667
+        }
+    }
+}
